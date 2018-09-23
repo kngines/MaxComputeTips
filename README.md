@@ -7,9 +7,9 @@
 - Author : kngines
 
 ---
-### GIT base commands of pull & push code from github.
+#### GIT base commands of pull & push code from github.
 
-#### 1. exec commands as follows:
+##### 1. exec commands as follows:
 - ```
     git config --global user.name "kngines";
 
@@ -19,15 +19,11 @@
 
     ```
 
----
-
-#### 2. New SSH key
+##### 2. New SSH key
 - 复制 id_rsa.pub 内容
 - SSH and GPG keys --> New SSH key
 
----
-
-#### 3. base commands
+##### 3. base commands
 - 初始化仓库
     - ``` git init ```
 
