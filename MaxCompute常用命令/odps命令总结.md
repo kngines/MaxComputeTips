@@ -15,3 +15,4 @@
 
 #### 6. 获取json列函数
 - ``` get_json_object(src,value) ```
+    - eg. ```get_json_object(columnName,'$.importance.com_city.rank')```
